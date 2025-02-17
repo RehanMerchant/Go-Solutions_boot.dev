@@ -1,0 +1,7 @@
+Ans: if x:=5; x>3
+
+Explanation: 
+if x := 5; x > 3 
+if (x := 5; x > 3) 
+The key difference is the parentheses. In Go, unlike some other languages like C or Java, the if statement doesn't require or want parentheses around its conditions.
+

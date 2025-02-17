@@ -1,0 +1,9 @@
+Ans:To Keep the code concise and scoped limited
+
+Explanation: It makes the code more concise (shorter)
+It limits the scope of variables to just the if block
+Among the choices:
+
+"To speed up my code" - Would initializing a variable in the if statement make it run faster?
+"To keep the code concise and the scope limited" - Does this match what we learned?
+"To confuse other programmers" - While Go syntax might be unfamiliar at first, is confusion ever a good programming goal?
