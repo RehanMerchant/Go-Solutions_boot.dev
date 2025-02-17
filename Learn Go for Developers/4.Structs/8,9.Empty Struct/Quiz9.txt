@@ -1,0 +1,8 @@
+Ans: struct{}, bool, int16, int64
+
+Explanation: 
+
+struct{}	0	Empty structs take zero space in Go
+bool	    1	Typically 1 byte (smallest addressable unit)
+uint16	    2	16-bit unsigned integer
+int64	    8	64-bit signed integer

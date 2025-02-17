@@ -1,0 +1,4 @@
+Ans: struct{} is type (empty structs) and {} is value
+
+Explanation: First {} → Defines the struct type.
+Second {} → Instantiates the struct (creates a value of that type).

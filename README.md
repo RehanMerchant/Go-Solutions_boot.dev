@@ -14,7 +14,7 @@ This repository includes:
 - [x]  Variables
 - [x]  Conditionals
 - [x]  Functions
-- [ ]  Structs
+- [x]  Structs
 - [ ]  Interfaces
 - [ ]  Errors
 - [ ]  Loops

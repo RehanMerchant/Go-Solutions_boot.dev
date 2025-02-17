@@ -1,0 +1,10 @@
+Ans: Anonymous struct prevent you from re-using a structs defination you never intended to re-use
+
+Explanation:
+1. Quick One-Time Data Structure
+When you only need a struct for a single function or operation, defining a full struct type can be unnecessary.
+This avoids cluttering the package with a named type that’s used only once.
+2. Avoiding Unnecessary Type Definitions
+If you don’t need to reuse the struct elsewhere, an anonymous struct keeps things minimal and avoids polluting the package namespace.
+3. Returning Multiple Values in a Readable Way
+Instead of returning multiple values from a function as separate variables, you can wrap them in an anonymous struct.
