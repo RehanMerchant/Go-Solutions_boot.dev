@@ -8,28 +8,6 @@ This repository includes:
 - Well-commented and structured code
 - Best practices for writing idiomatic Go
 
-
-## ✔️Solved
-#### 1. Go For Developers
-- [x]  Variables
-- [x]  Conditionals
-- [ ]  Functions
-- [ ]  Structs
-- [ ]  Interfaces
-- [ ]  Errors
-- [ ]  Loops
-- [ ]  Slices
-- [ ]  Maps
-- [ ]  Pointers
-- [ ]  Packages and Modules
-- [ ]  Channels
-- [ ]  Mutexes
-- [ ]  Generics
-- [ ]  Enums
-- [ ]  Quiz
-
-`If you find this repository helpful, feel free to ⭐ star it and contribute! Let's keep learning and building awesome things with Go. 🚀`
-
 ## 📁 Folder Structure
 
        boot.dev-GO ->
