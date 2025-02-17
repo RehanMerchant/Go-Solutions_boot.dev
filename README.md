@@ -2,6 +2,8 @@
 
 This repository contains my solutions to the Go programming courses on [Boot.dev](https://boot.dev). These solutions serve as a reference for learning Go and improving problem-solving skills.
 
+
+
 ## 📌 About
 This repository includes:
 - Solutions to Boot.dev Go challenges
@@ -25,6 +27,11 @@ This repository includes:
       |── README.md                                
                   
 ## 🛠️ Getting Started
+### ⚠️Warning
+   **1. Most of the solutions that is provided in the repository can't be run locally with writing the test code, it is adviced to practice coding in boot.dev only. Alternative option is that you can practice in go playground by pasting the solution code and test_main.go code in the playground.**
+   
+**2.Boot.dev is not fully free, if you became member it will work fine but if you are not a member you can easily view and watch lessons and write code in go playground**
+
 ### Prerequisites for Running Locally
 Ensure you have the following installed:
 - [Go](https://go.dev/dl/) (latest stable version)
@@ -35,12 +42,12 @@ Ensure you have the following installed:
 
 
 ## 🔥 Running the Solutions
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/RehanMerchant/boot.dev-GO.git
+`1. Clone the repository: git clone https://github.com/RehanMerchant/boot.dev-GO.git`
 
-2.     Run the Go file.
-3.     If you are in [Boot.dev](https://boot.dev), you can see the solutions if you are unable to solve.
+
+`2.    Run the Go file.`
+
+`3.    If you are in [Boot.dev](https://boot.dev), you can see the solutions if you are unable to solve.`
 
 
 
@@ -48,5 +55,7 @@ Ensure you have the following installed:
 
 This repository is a collection of solutions to the Boot.dev Go courses, designed to help learners understand Go concepts and improve their coding skills. Whether you're revisiting fundamentals or tackling complex algorithms, these solutions provide a structured and practical way to learn Go.  
 
-If you find this repository helpful, feel free to ⭐ star it and contribute! Let's keep learning and building awesome things with Go. 🚀  
+
+
+`If you find this repository helpful, feel free to ⭐ star it and contribute! Let's keep learning and building awesome things with Go. 🚀`
 
