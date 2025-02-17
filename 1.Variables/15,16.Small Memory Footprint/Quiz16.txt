@@ -1,0 +1,12 @@
+Ans: To cleanup unused memory
+
+Explanation: The lesson mentions that Go programs include something called the "Go Runtime" in their executables. Let's think about what the lesson specifically says about its purpose:
+
+The lesson mentions that one of the runtime's jobs is to "clean up unused memory at runtime"
+It does this using something called a "garbage collector"
+Looking at our choices:
+
+Styling code isn't a runtime activity - that happens during development
+Scaring developers (while amusing!) isn't a purpose of any runtime
+Compilation happens before the program runs, not during runtime
+Cleaning up unused memory is explicitly mentioned in the lesson

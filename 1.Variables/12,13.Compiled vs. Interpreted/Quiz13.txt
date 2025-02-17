@@ -1,0 +1,11 @@
+Ans:Python
+
+Explanation: Rust: Rust is a compiled language. This means that its source code is transformed into machine code by a compiler before running, and you only need the resulting binary to execute the program.
+
+Python: Python is an interpreted language. An interpreter reads and executes its source code directly at runtime. This allows for flexibility but often results in slower execution compared to compiled languages.
+
+Go: Go is a compiled language. Like Rust, it generates a stand-alone binary after compilation, which can run without needing a Go environment.
+
+C++: C++ is also a compiled language, relying on a compiler to generate executables.
+
+Thus, Python is the correct choice because it is interpreted, meaning its code is executed step-by-step by an interpreter rather than being pre-compiled into a binary.

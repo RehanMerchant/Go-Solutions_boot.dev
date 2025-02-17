@@ -1,0 +1,10 @@
+Ans: Bits
+
+Explanation: When we see types like int8, int16, int32, or uint64, the number in the type name refers to the number of bits used to store that value in memory.
+
+Think of bits like little boxes that can hold either a 0 or 1. The more bits you have, the bigger the number you can store. For example:
+
+int8 uses 8 bits
+int16 uses 16 bits
+int32 uses 32 bits
+uint64 uses 64 bits

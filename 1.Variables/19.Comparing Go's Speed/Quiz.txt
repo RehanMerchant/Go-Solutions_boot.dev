@@ -1,0 +1,7 @@
+Ans:No
+
+Explanation: The question asks whether Go executes faster than Rust. Looking at the lesson material, Go is positioned in a middle ground of performance:
+
+It's faster than interpreted languages (Python, JavaScript, etc.)
+But it's slower than some other compiled languages, including Rust
+The lesson specifically mentions that Go trades some speed for features like automated memory management (the Go runtime). This makes Go easier to write and safer to use, but slightly slower than languages like Rust that give developers more direct control over memory.

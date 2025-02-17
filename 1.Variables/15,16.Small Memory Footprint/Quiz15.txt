@@ -1,0 +1,6 @@
+Ans: Java
+
+Explanation: Java: Uses more memory because it runs on a virtual machine (the JVM) and often uses a larger heap. This extra abstraction layer contributes to higher memory usage compared to the other languages.
+Go: Uses a small amount of memory because its runtime and garbage collector are lightweight and efficient.
+Rust and C: Use less memory than Go, giving developers more manual control over memory optimization.
+The correct answer is Java, as it's noted in the lesson for having higher memory usage compared to Go, Rust, and C.

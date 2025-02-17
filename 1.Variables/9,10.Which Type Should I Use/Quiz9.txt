@@ -1,0 +1,12 @@
+Ans: When peformance and memory are primary concern
+
+Explanation: Among the options, we're looking for the scenario where deviating from the default types—like int or float64—makes sense:
+
+1."When performance and memory are the primary concern"
+This is correct! The lecture mentions that the only good reason to deviate from default types is when you're optimizing for performance or need to save memory. For instance, if you're working on an application for constrained devices, a smaller type like uint16 might be used to conserve memory.
+
+2."When my system has lots of extra hardware I want to utilize"
+This is not relevant. If you have lots of extra resources, you'd stick with the defaults since they're easier to work with and lead to cleaner code.
+
+3."When either a 'default' or a specific size will work"
+This is also incorrect. If both work fine, there's no reason to stray from defaults—the lecture warns that uncommon types add unnecessary complexity for no benefit unless there's a performance-critical need.

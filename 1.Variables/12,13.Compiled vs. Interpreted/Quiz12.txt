@@ -1,0 +1,11 @@
+Ans: The Compiled executable
+
+Explanation: The key concept here is about what users need to actually run a compiled program. Let's consider each option:
+
+Do users need the source code? Well, remember what the lesson said about video games - do you need the original code to play a game?
+
+Do users need the compiler? Think about it - once a program is already compiled, is the compiler still necessary?
+
+The compiled executable - this is the actual program that's been converted from source code into machine code.
+
+Blue hair... well, I don't think that helps with running programs!

@@ -1,0 +1,16 @@
+Ans: Faster, Faster
+
+Explanation: The question is:
+Go code generally runs ____ than interpreted languages and compiles ____ than other compiled languages.
+
+From the lesson, we know two key points:
+
+1.Go is a compiled language, meaning it’s turned into machine code before execution. Because of this, Go generally runs faster than interpreted languages like Python or JavaScript, which are not compiled into machine code but instead executed line-by-line by an interpreter.
+
+2.Compared to other compiled languages like Rust, Zig, or C, Go compiles faster. This is because Go prioritizes a productive developer experience with quick compilation times, even if Go programs don't quite reach the raw speed of Rust or C when running.
+
+Now to match the statement's blanks with the correct terms:
+
+Go runs faster than interpreted languages.
+Go compiles faster than other compiled languages.
+So, the correct answer is faster, faster.
