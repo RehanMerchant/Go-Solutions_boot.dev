@@ -10,19 +10,19 @@ This repository includes:
 
 ## 📁 Folder Structure
 
-   boot.dev-GO/ 
+  boot.dev-GO ->
    Learn Go for Developers/     
-   | │── Variables/   
-   | │   ├── 1.Basic variables/     
-   | │   │   ├── main.go       
-   | │   ├── 2.Short Variable/         
-   | │   │   ├── main.go        
-   | │──Conditionals/       
-   | │   ├── 1.If-else/         
-   | │   │   ├── main.go        
-   | │   ├── 2.Switch/          
-   | │   │   ├── main.go   
-   |── README.md                                
+    │── Variables/   
+    │   ├── 1.Basic variables/     
+    │   │   ├── main.go       
+    │   ├── 2.Short Variable/         
+    │   │   ├── main.go        
+    │──Conditionals/       
+    │   ├── 1.If-else/         
+    │   │   ├── main.go        
+    │   ├── 2.Switch/          
+    │   │   ├── main.go   
+    |── README.md                                
                   
 ## 🛠️ Getting Started
 ### Prerequisites for Running Locally
