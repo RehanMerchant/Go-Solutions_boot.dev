@@ -38,7 +38,6 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```sh
    git clone https://github.com/RehanMerchant/boot.dev-GO.git
-   cd bootdev-go-solutions
 
 2.     Run the Go file.
 3.     If you are in [Boot.dev](https://boot.dev), you can see the solutions if you are unable to solve.
