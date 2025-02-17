@@ -36,7 +36,7 @@ Ensure you have the following installed:
 ## 🔥 Running the Solutions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/bootdev-go-solutions.git
+   git clone https://github.com/RehanMerchant/boot.dev-GO.git
    cd bootdev-go-solutions
 
 2.     Run the Go file.
