@@ -1,0 +1,12 @@
+Ans: func createUser(firstName, lastName string, age int)
+
+Explaination: The function parameters and type declarations in Go! The question is testing your understanding of how to write concise function signatures when you have multiple parameters.
+
+The key concept here is that in Go, when you have multiple parameters of the same type that are adjacent to each other in the function signature, you only need to declare the type once after the last parameter of that type.
+
+Let's analyze why func createUser(firstName, lastName string, age int) is correct:
+
+firstName and lastName are both of type string
+They are next to each other in the parameter list
+So we can declare string just once after lastName
+age is a different type (int), so it needs its own type declaration

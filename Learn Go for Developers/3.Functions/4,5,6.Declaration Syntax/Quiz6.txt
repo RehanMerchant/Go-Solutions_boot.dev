@@ -1,0 +1,17 @@
+Ans: A Function named 'f' that takes a function and an int as arguments and return an int
+
+Explanation: 
+var f func(func(int,int) int, int) int
+Copy icon
+var f - We're declaring a variable named f
+func - f is a function
+Now for its parameters (inside the first parentheses):
+First parameter: func(int,int) int - This is itself a function that takes two ints and returns an int
+Second parameter: int - Just a simple integer
+Final int - This is the return type of f
+So f is a function that:
+
+Takes 2 parameters:
+A function (that takes 2 ints and returns an int)
+An integer
+Returns an integer

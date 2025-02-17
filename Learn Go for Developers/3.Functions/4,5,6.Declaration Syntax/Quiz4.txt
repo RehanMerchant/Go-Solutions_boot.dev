@@ -1,0 +1,1 @@
+Ans: The style of language used to create new variables, types, functions etc..

@@ -13,7 +13,7 @@ This repository includes:
 #### 1. Go For Developers
 - [x]  Variables
 - [x]  Conditionals
-- [ ]  Functions
+- [x]  Functions
 - [ ]  Structs
 - [ ]  Interfaces
 - [ ]  Errors

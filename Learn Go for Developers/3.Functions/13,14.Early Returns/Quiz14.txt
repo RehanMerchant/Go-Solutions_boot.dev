@@ -1,0 +1,3 @@
+Ans: An early return from function when a given condition is met
+
+
