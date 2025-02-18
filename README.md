@@ -15,7 +15,7 @@ This repository includes:
 - [x]  Conditionals
 - [x]  Functions
 - [x]  Structs
-- [ ]  Interfaces
+- [x]  Interfaces
 - [ ]  Errors
 - [ ]  Loops
 - [ ]  Slices
