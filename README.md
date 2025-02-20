@@ -16,7 +16,7 @@ This repository includes:
 - [x]  Functions
 - [x]  Structs
 - [x]  Interfaces
-- [ ]  Errors
+- [x]  Errors
 - [ ]  Loops
 - [ ]  Slices
 - [ ]  Maps

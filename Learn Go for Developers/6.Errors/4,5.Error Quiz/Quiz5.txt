@@ -1,0 +1,3 @@
+Ans: Yes
+Explaniation: Error are just interfaces, 
+and types can fulfill any number of interfaces so, Yes
