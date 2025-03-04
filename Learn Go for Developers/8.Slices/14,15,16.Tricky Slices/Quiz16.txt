@@ -1,0 +1,1 @@
+Ans: Always assign the result of the append() function back to the same slice

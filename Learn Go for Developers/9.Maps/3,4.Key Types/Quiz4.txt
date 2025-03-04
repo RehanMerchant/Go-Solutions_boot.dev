@@ -1,0 +1,1 @@
+Ans: To use a struct directly as a key

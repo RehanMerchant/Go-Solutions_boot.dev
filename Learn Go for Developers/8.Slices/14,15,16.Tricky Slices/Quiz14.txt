@@ -1,0 +1,1 @@
+  Ans: j and g point to the same underlying array so g's append overwrote j
