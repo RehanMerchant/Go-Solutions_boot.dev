@@ -18,8 +18,8 @@ This repository includes:
 - [x]  Interfaces
 - [x]  Errors
 - [x]  Loops
-- [ ]  Slices
-- [ ]  Maps
+- [x]  Slices
+- [x]  Maps
 - [ ]  Pointers
 - [ ]  Packages and Modules
 - [ ]  Channels
