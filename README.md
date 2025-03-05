@@ -20,7 +20,7 @@ This repository includes:
 - [x]  Loops
 - [x]  Slices
 - [x]  Maps
-- [ ]  Pointers
+- [x]  Pointers
 - [ ]  Packages and Modules
 - [ ]  Channels
 - [ ]  Mutexes
