@@ -1,0 +1,16 @@
+Ans: Values
+
+Explanations: Stack Allocation vs. Heap Allocation
+
+Small values (like integers, floats, or small structs) are usually stored on the stack, making value passing very fast.
+Passing a pointer means the function has to dereference it, which adds a slight overhead.
+If a pointer causes heap allocation (due to escape analysis), garbage collection may introduce extra performance costs.
+CPU Cache Efficiency
+
+Small values fit well in CPU registers, making direct access faster than indirect memory lookups through pointers.
+Pointers require an additional memory lookup (dereferencing), which can be slower due to cache misses.
+Mutability & Concurrency
+
+Passing by value ensures immutability, reducing unintended side effects in concurrent operations.
+Passing a pointer allows modification of the original value, which can introduce race conditions if not handled properly.
+When to Pass by Pointer?

@@ -1,0 +1,7 @@
+Ans:Heap
+
+Explanations:When you allocate memory using pointers (e.g., via new or when using reference types like slices, maps, or structs allocated with &), Go stores those values in the heap so they persist beyond the function scope.
+
+However, if a pointer refers to a local variable inside a function, escape analysis determines whether the variable should be allocated on the stack or the heap. If the compiler sees that the variable's lifetime extends beyond the function (because it's returned or stored in a pointer), it moves it to the heap. Otherwise, it stays on the stack for efficiency.
+
+So, while pointer-referenced values are usually stored in the heap, Go optimizes storage based on escape analysis.
