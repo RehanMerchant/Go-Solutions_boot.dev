@@ -21,7 +21,7 @@ This repository includes:
 - [x]  Slices
 - [x]  Maps
 - [x]  Pointers
-- [ ]  Packages and Modules
+- [x]  Packages and Modules
 - [ ]  Channels
 - [ ]  Mutexes
 - [ ]  Generics
