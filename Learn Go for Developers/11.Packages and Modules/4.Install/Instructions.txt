@@ -1,0 +1,12 @@
+A.Install go locally
+
+1.The easiest way (in my opinion) is to use Webi to install Go.
+2.Otherwise, the official download page is also a great option.
+
+type `go version` in terminal to check if its installed or not i will return 
+go version and your system architecture.
+
+
+B.install and login to boot.dev cli too whith your same account
+
+C.With the CLI working, and Go installed, run and submit the tests.

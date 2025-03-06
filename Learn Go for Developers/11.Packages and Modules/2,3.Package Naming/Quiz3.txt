@@ -1,0 +1,1 @@
+Ans: Any of these could be use but rand would be convectionaly correct

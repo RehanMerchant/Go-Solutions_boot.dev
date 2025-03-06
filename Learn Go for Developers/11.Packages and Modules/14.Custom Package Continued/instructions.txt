@@ -1,0 +1,3 @@
+follow the steps locally to sucessfully use the package mystrings in hellogo
+
+there is example of the code form 9 to 14 given in this dir

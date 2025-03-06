@@ -1,0 +1,2 @@
+Ans: No, in fact you shouldn't
+Explanations: Gopath is outdated and the nerw module system is to replace gopath
