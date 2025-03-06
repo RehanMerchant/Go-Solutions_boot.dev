@@ -28,6 +28,17 @@ This repository includes:
 - [ ]  Enums
 - [ ]  Quiz
 
+#### 2. Learn HTTP Clients
+- [ ]  Why HTTP?
+- [ ]  JSON
+- [ ]  DNS
+- [ ]  URIs
+- [ ]  Headers
+- [ ]  Methods
+- [ ]  Paths
+- [ ]  HTTPS
+- [ ]  Errors
+- [ ]  cURL
 
 ## 📁 Folder Structure
 
