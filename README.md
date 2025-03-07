@@ -22,7 +22,7 @@ This repository includes:
 - [x]  Maps
 - [x]  Pointers
 - [x]  Packages and Modules
-- [ ]  Channels
+- [x]  Channels
 - [ ]  Mutexes
 - [ ]  Generics
 - [ ]  Enums
