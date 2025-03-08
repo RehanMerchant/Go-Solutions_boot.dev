@@ -23,7 +23,7 @@ This repository includes:
 - [x]  Pointers
 - [x]  Packages and Modules
 - [x]  Channels
-- [ ]  Mutexes
+- [x]  Mutexes
 - [ ]  Generics
 - [ ]  Enums
 - [ ]  Quiz
