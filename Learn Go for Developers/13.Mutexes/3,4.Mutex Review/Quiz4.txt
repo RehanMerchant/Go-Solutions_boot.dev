@@ -1,0 +1,1 @@
+Ans: To safely access shared resources concurrently

@@ -1,0 +1,2 @@
+Ans:No
+Explaination: cant be written at the same time even if we use RWMutex
