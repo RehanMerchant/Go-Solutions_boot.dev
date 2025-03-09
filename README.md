@@ -24,7 +24,7 @@ This repository includes:
 - [x]  Packages and Modules
 - [x]  Channels
 - [x]  Mutexes
-- [ ]  Generics
+- [x]  Generics
 - [ ]  Enums
 - [ ]  Quiz
 
