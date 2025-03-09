@@ -1,0 +1,1 @@
+Ans: You know exactly which types satisfy your interface
