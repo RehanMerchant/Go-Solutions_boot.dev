@@ -58,7 +58,7 @@ This repository includes:
                   
 ## 🛠️ Getting Started
 ### ⚠️Warning
-   **1. Most of the solutions that is provided in the repository can't be run locally with writing the test code, it is adviced to practice coding in boot.dev only. Alternative option is that you can practice in go playground by pasting the solution code and test_main.go code in the playground.**
+   **1. Most of the solutions that is provided in the repository can't be run locally without writing the test code, it is adviced to practice coding in boot.dev only. Alternative option is that you can practice in go playground by pasting the solution code and test_main.go code in the playground.**
    
 **2.Boot.dev is not fully free, if you became member it will work fine but if you are not a member you can easily view and watch lessons and write code in go playground**
 
