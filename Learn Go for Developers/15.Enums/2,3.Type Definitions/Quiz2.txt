@@ -1,0 +1,19 @@
+Ans: checkPermission(Admin)
+
+
+checkPermission(Write)
+✅ Valid
+Write is a constant of type perm, and checkPermission expects a perm argument.
+
+checkPermission(User)
+✅ Valid
+User is explicitly defined as perm("user"), so it matches the function parameter type.
+
+checkPermission(Read)
+✅ Valid
+Read is a constant of type perm, and checkPermission expects a perm argument.
+
+checkPermission(Admin)
+❌ Compiler Error
+Admin is declared as var Admin = "admin", which is of type string, not perm.
+Since checkPermission expects a perm, passing a string will cause a type mismatch error.
