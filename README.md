@@ -25,7 +25,7 @@ This repository includes:
 - [x]  Channels
 - [x]  Mutexes
 - [x]  Generics
-- [ ]  Enums
+- [x]  Enums
 - [ ]  Quiz
 
 #### 2. Learn HTTP Clients
