@@ -10,7 +10,7 @@ This repository includes:
 
 
 ## ✔️Solved
-#### 1. Go For Developers
+#### 1. Go For Developers [✔️ Done]
 - [x]  Variables
 - [x]  Conditionals
 - [x]  Functions
@@ -26,7 +26,7 @@ This repository includes:
 - [x]  Mutexes
 - [x]  Generics
 - [x]  Enums
-- [ ]  Quiz
+- [x]  Quiz
 
 #### 2. Learn HTTP Clients
 - [ ]  Why HTTP?
