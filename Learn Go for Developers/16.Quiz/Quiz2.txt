@@ -1,0 +1,3 @@
+Ans: Copying a little code
+
+including dependencies for smaller chunk of code is not considred nice , its better to copy little bit odf code
