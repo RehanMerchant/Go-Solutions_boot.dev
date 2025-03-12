@@ -31,7 +31,7 @@ This repository includes:
 #### 2. Learn HTTP Clients
 - [x]  Why HTTP?
 - [x]  JSON
-- [ ]  DNS
+- [x]  DNS
 - [ ]  URIs
 - [ ]  Headers
 - [ ]  Methods
