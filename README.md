@@ -32,7 +32,7 @@ This repository includes:
 - [x]  Why HTTP?
 - [x]  JSON
 - [x]  DNS
-- [ ]  URIs
+- [x]  URIs
 - [ ]  Headers
 - [ ]  Methods
 - [ ]  Paths
