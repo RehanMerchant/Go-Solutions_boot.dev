@@ -29,7 +29,7 @@ This repository includes:
 - [x]  Quiz
 
 #### 2. Learn HTTP Clients
-- [ ]  Why HTTP?
+- [x]  Why HTTP?
 - [ ]  JSON
 - [ ]  DNS
 - [ ]  URIs
