@@ -30,7 +30,7 @@ This repository includes:
 
 #### 2. Learn HTTP Clients
 - [x]  Why HTTP?
-- [ ]  JSON
+- [x]  JSON
 - [ ]  DNS
 - [ ]  URIs
 - [ ]  Headers
