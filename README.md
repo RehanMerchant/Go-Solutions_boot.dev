@@ -34,7 +34,7 @@ This repository includes:
 - [x]  DNS
 - [x]  URIs
 - [x]  Headers
-- [ ]  Methods
+- [x]  Methods
 - [ ]  Paths
 - [ ]  HTTPS
 - [ ]  Errors
