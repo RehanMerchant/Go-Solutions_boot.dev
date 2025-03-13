@@ -33,7 +33,7 @@ This repository includes:
 - [x]  JSON
 - [x]  DNS
 - [x]  URIs
-- [ ]  Headers
+- [x]  Headers
 - [ ]  Methods
 - [ ]  Paths
 - [ ]  HTTPS
