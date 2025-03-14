@@ -28,7 +28,7 @@ This repository includes:
 - [x]  Enums
 - [x]  Quiz
 
-#### 2. Learn HTTP Clients
+#### 2. Learn HTTP Clients [✔️ Done]
 - [x]  Why HTTP?
 - [x]  JSON
 - [x]  DNS
@@ -38,7 +38,7 @@ This repository includes:
 - [x]  Paths
 - [x]  HTTPS
 - [x]  Errors
-- [ ]  cURL
+- [x]  cURL
 
 ## 📁 Folder Structure
 
