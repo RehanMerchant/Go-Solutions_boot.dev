@@ -36,8 +36,8 @@ This repository includes:
 - [x]  Headers
 - [x]  Methods
 - [x]  Paths
-- [ ]  HTTPS
-- [ ]  Errors
+- [x]  HTTPS
+- [x]  Errors
 - [ ]  cURL
 
 ## 📁 Folder Structure
