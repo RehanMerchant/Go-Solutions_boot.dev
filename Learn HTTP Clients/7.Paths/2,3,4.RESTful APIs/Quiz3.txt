@@ -1,0 +1,1 @@
+Ans:No, but it's a common convention designed to create better APIs
