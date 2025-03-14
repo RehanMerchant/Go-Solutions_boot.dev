@@ -11,34 +11,13 @@ This repository includes:
 
 ## ✔️Solved
 #### 1. Go For Developers [✔️ Done]
-- [x]  Variables
-- [x]  Conditionals
-- [x]  Functions
-- [x]  Structs
-- [x]  Interfaces
-- [x]  Errors
-- [x]  Loops
-- [x]  Slices
-- [x]  Maps
-- [x]  Pointers
-- [x]  Packages and Modules
-- [x]  Channels
-- [x]  Mutexes
-- [x]  Generics
-- [x]  Enums
-- [x]  Quiz
+
 
 #### 2. Learn HTTP Clients [✔️ Done]
-- [x]  Why HTTP?
-- [x]  JSON
-- [x]  DNS
-- [x]  URIs
-- [x]  Headers
-- [x]  Methods
-- [x]  Paths
-- [x]  HTTPS
-- [x]  Errors
-- [x]  cURL
+
+
+#### 2. Pokedex Project [✔️ Done]
+
 
 ## 📁 Folder Structure
 
