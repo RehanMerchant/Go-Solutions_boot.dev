@@ -2,6 +2,7 @@ package pokeapi
 
 import (
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 )
@@ -16,6 +17,7 @@ func (c *Client) GetPokemon(pokemonName string) (Pokemon, error) {
 		if err != nil {
 			return Pokemon{}, err
 		}
+		fmt.Println("Returing from cache --")
 		return pokemonResp, nil
 	}
 

@@ -21,7 +21,7 @@ func (c *Client) ListLocations(pageURL *string) (RespLocation, error) {
 			return RespLocation{}, err
 		}
 
-		fmt.Println("Returing from cache")
+		fmt.Println("Returing from cache --")
 		return locationRes, nil
 
 	}
