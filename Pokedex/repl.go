@@ -4,7 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	pokeapi "pokedex/internal"
+	"pokedex/internal/pokeapi"
+
 	"strings"
 )
 
