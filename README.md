@@ -16,7 +16,22 @@ This repository includes:
 #### 2. Learn HTTP Clients [✔️ Done]
 
 
-#### 2. Pokedex Project [✔️ Done]
+#### 3. Pokedex Project [✔️ Done]
+
+
+#### 4. Learn HTTP Servers 
+    
+- [ ]  Servers
+- [ ]  Routing
+- [ ]  Architecture
+- [ ]  Json
+- [ ]  Storage
+- [ ]  Authentication
+- [ ]  Authorization
+- [ ]  Webhook
+- [ ]  Documentation
+
+
 
 
 ## 📁 Folder Structure
